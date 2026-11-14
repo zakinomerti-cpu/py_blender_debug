@@ -1,3 +1,4 @@
+# made 100% with ai claude sonnet
 import bpy
 import bmesh
 import re
